@@ -8,8 +8,8 @@ The player can move the ship right and left using the arrow keys and shoot bulle
     If the player loses three ships, the game ends.
 
 draft 
-examine our cod e and determine if we need to refactor before implementing new features
-add a single aline to the top-left corner of the screen with appropraite spacing aroundit.
-use the spacing around the first alien and the overall screen size to determine how many fliens can fit on the screen. We'll write a loop to craete aliens to fill the upper portioon fo teh scren.
-make the fleet move sideways and down until the entire fleet is shot down, an alien hits the ship, or an alien reaches the ground. If hte entire fleet is shost down, we'll create a new fleet. If an aline hits the ship or the gorund, we'll destroy the ship and create a new fleet.
-Limit the number of ships the paolyer can sue, and end the game when the player has used up the allotted number of ships
+examine our code and determine if we need to refactor before implementing new features
+add a single alien to the top-left corner of the screen with appropraite spacing aroundit.
+use the spacing around the first alien and the overall screen size to determine how many fliens can fit on the screen. We'll write a loop to create aliens to fill the upper portion of the screen.
+make the fleet move sideways and down until the entire fleet is shot down, an alien hits the ship, or an alien reaches the ground. If the entire fleet is shoot down, we'll create a new fleet. If an alien hits the ship or the ground, we'll destroy the ship and create a new fleet.
+Limit the number of ships the player can use, and end the game when the player has used up the allocated number of ships
