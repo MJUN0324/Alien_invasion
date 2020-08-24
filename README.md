@@ -1,6 +1,6 @@
 # Alien Invasion
 ## Initial Screen
-<img src="images/alien.bmp" height="100" width="100" />
+<img src="images/alien_invasion.JPG" height="500" width="800" />
 
 ## Description
 In Alien invasion, the player controls a rocket ship that appears at the bottom center of the screen. 
